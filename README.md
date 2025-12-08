@@ -1,20 +1,55 @@
-<h1 align="center">Hi 👋, I'm Javad</h1>
-<h3 align="center">Core focus on **Java Development** and high-performance applications. With a foundation in Information Technologies and ongoing specialization in Cyber Security (M.Sc.), I prioritize building secure, scalable, and resilient software solutions.</h3>
+# 💻 [Sizin Adınız veya Proje Adınız]
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cnzrly&label=Profile%20views&color=0e75b6&style=flat" alt="cnzrly" /> </p>
+### Dijital Zanaatkar (Geliştirici/Yaratıcı/Lider)
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/javad nazirli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="javad nazirli" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/javad nazirli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="javad nazirli" height="30" width="40" /></a>
-<a href="https://instagram.com/cnzrly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cnzrly" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/javad nazirli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="javad nazirli" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/javad_nazirli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="javad_nazirli" height="30" width="40" /></a>
-</p>
+Merhaba! Ben **Javad Nazirli**.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+I am a results-driven Java Backend Developer, currently focusing on transitioning into a full Software Engineer role. I leverage the deep security perspective gained from my Master's studies in Cyber Security to design and develop robust, high-performance, and security-aware backend systems.
+My core philosophy in all projects is to build reliable solutions from the ground up, prioritizing clean code, comprehensive testing, and continuous architectural optimization. I am passionate about applying best practices to ensure resilience and scalability.
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cnzrly&" alt="cnzrly" />
-</div>
+
+
+En çok [Java, Spring Boot, RESTful Services] gibi teknolojilere odaklanıyorum ve her zaman verimli, ölçeklenebilir ve kullanıcı odaklı sistemler yaratmayı amaçlıyorum.
+
+---
+
+## 🔥 Metrikler ve İstatistikler
+[![LinkedIn Profil](https://img.shields.io/badge/build-JAVAD%20NAZIRLI-brightgreen?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&label=Linkedin&color=0e76a8)](https://www.linkedin.com/in/javad-nazirli-b5b730302/)
+&nbsp;&nbsp;
+[![E-posta](https://img.shields.io/badge/build-email%20me-brightgreen?style=for-the-badge&logo=Gmail&logoColor=0AB721&label=Gmail&color=0AB721)](mailto:javadnazirli25@gmail.com)
+&nbsp;&nbsp;
+[![Instagram Takip](https://img.shields.io/badge/build-cnzrly-brightgreen?style=for-the-badge&logo=instagram&logoColor=CA0202&label=Instagram&labelColor=363636&color=CA0202)](https://www.instagram.com/cnzrly)
+
+
+
+  [![My Skills](https://skillicons.dev/icons?i=java,spring,bash&theme=light)](https://skillicons.dev)
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="45" height="45"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="45" height="45"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" alt="Adobe Illustrator" width="45" height="45"/>
+
+---
+
+## 💡 İletişim
+
+* **E-posta:** [email@example.com](mailto:email@example.com)
+* **YouTube:** [YouTube Kanal Bağlantınız](https://www.youtube.com/[KANAL_ADINIZ])
+* **Twitter/X:** [@TwitterKullanıcıAdınız](https://twitter.com/[KULLANICI_ADINIZ])
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=[KULLANICI_ADINIZ]&color=blue" alt="Ziyaret Sayısı"/>
+  </p>
