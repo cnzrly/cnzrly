@@ -3,11 +3,12 @@
 ### Backend Developer
 ---
 
-Hello! I'm Javad Nazirli.
+👋 **Hello!** I'm Javad Nazirli.
 
-I am a results-driven Java Backend Developer, currently focusing on transitioning into a full Software Engineer role. I leverage the deep security perspective gained from my Master's studies in Cyber Security to design and develop robust, high-performance, and security-aware backend systems. My core philosophy in all projects is to build reliable solutions from the ground up, prioritizing clean code, comprehensive testing, and continuous architectural optimization. I am passionate about applying best practices to ensure resilience and scalability.
+I am a **results-driven Java Backend Developer**, currently focusing on transitioning into a **full Software Engineer role**. I leverage the deep security perspective gained from my **Master's studies in Cyber Security** to design and develop **robust, high-performance, and security-aware backend systems**. My core philosophy in all projects is to **build reliable solutions from the ground up**, prioritizing **clean code, comprehensive testing, and continuous architectural optimization**. I am passionate about applying **best practices** to ensure **resilience and scalability**.
 
-I primarily focus on technologies like [Java, Spring Boot, RESTful Services], and I always aim to create efficient, scalable, and user-centric systems.
+I primarily focus on technologies like **Java, Spring Boot, Deep Learning**, and I always aim to create **efficient, scalable, and user-centric systems**.
+
 <br>
 
 [![LinkedIn Profil](https://img.shields.io/badge/build-JAVAD%20NAZIRLI-brightgreen?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&label=Linkedin&color=0e76a8)](https://www.linkedin.com/in/javad-nazirli-b5b730302/)
