@@ -20,6 +20,7 @@ I primarily focus on technologies like **Java, Spring Boot, RESTful Services**, 
 ---
 ![My Skills](https://skillicons.dev/icons?i=java,spring,maven&theme=light)
 ![My Skills](https://skillicons.dev/icons?i=git,gitlab,idea&theme=light)
+![My Skills](https://skillicons.dev/icons?i=eclipse&theme=light)
 ![My Skills](https://skillicons.dev/icons?i=docker,linux,ubuntu&theme=light)
 ![My Skills](https://skillicons.dev/icons?i=postgres,mysql,bash&theme=light)
 ![My Skills](https://skillicons.dev/icons?i=postman,html,notion&theme=light)
