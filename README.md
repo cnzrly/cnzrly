@@ -17,12 +17,12 @@ I primarily focus on technologies like **Java, Spring Boot, RESTful Services**, 
 &nbsp;&nbsp;
 [![Instagram Takip](https://img.shields.io/badge/build-cnzrly-brightgreen?style=for-the-badge&logo=instagram&logoColor=CA0202&label=Instagram&labelColor=363636&color=CA0202)](https://www.instagram.com/cnzrly)
 
----
+<!---
 ![My Skills](https://skillicons.dev/icons?i=java,spring,maven&theme=light)
 ![My Skills](https://skillicons.dev/icons?i=git,gitlab,idea&theme=light)
 ![My Skills](https://skillicons.dev/icons?i=docker,linux,ubuntu&theme=light)
 ![My Skills](https://skillicons.dev/icons?i=postgres,mysql,bash&theme=light)
-![My Skills](https://skillicons.dev/icons?i=postman,html,notion&theme=light)
+![My Skills](https://skillicons.dev/icons?i=postman,html,notion&theme=light)/*
 
 
 
